@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1492116430 source:c:\users\dfreer\documents\new folder\speakersbureau\main.cpp
+	<iostream>
+
+1492121348 source:c:\users\kciscisco\downloads\speakers' bureau final project perfect code\speakersbureau\main.cpp
+	<iostream>
+
+1501013997 source:c:\users\ariel.vigueras001\desktop\speakersbureau\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstring>
+
+1501033200 source:f:\c++\speakersbureau\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstring>
+
